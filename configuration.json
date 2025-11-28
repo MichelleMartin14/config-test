@@ -1,7 +1,4 @@
 {
-    "start": {
-        "color": "red",
-        "activated": true
-    },
-    "chat": "gros"
+  "setting1": "nouvelle valeur",
+  "setting2": 100
 }
