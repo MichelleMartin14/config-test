@@ -1,6 +1,7 @@
 {
     "color": {
         "chat": "jaune",
-        "chien": "vert"
+        "chien": "vert",
+        "cheval": "marron"
     }
 }
