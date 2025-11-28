@@ -1,4 +1,5 @@
 {
-  "setting1": "nouvelle valeur",
-  "setting2": 100
+    "setting1": "default",
+    "setting2": 42,
+    "setting3": true
 }
