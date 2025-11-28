@@ -3,5 +3,8 @@
         "chat": "jaune",
         "chien": "bleu",
         "cheval": "marron"
+    },
+    "arbre": {
+        "sapin": "vert"
     }
 }
