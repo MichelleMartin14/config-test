@@ -9,5 +9,8 @@
   },
   "chat": {
     "color": "gris"
+  },
+  "cheval": {
+    "mustang": "grand"
   }
 }
