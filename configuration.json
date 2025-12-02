@@ -1,1 +1,13 @@
-{"color":{"chat":"jaune","chien":"bleu","cheval":"marron"},"arbre":{"sapin":"vert"},"chat":{"color":"gris"}}
+{
+  "color": {
+    "chat": "jaune",
+    "chien": "bleu",
+    "cheval": "marron"
+  },
+  "arbre": {
+    "sapin": "vert"
+  },
+  "chat": {
+    "color": "gris"
+  }
+}
