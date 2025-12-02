@@ -12,5 +12,8 @@
   },
   "cheval": {
     "mustang": "grand"
+  },
+  "test": {
+    "tt": "tt"
   }
 }
