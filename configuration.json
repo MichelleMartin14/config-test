@@ -11,6 +11,7 @@
   },
   "2330": {
     "order": true,
-    "order_mana": false
+    "order_mana": false,
+    "order_manaa": "fr,es"
   }
 }
