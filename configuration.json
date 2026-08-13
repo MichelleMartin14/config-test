@@ -1,21 +1,4 @@
 {
-  "color": {
-    "chat": "jaune",
-    "chien": "bleu",
-    "cheval": "marron"
-  },
-  "arbre": {
-    "sapin": "vert"
-  },
-  "chat": {
-    "color": "gris"
-  },
-  "cheval": {
-    "mustang": "grand"
-  },
-  "test": {
-    "tt": "tt"
-  },
   "DEFAULT": {
     "order_maanement": true
   },
@@ -23,6 +6,10 @@
     "order": true
   },
   "COLOR": {
+    "cheval": "noir",
     "chat": "vert"
+  },
+  "2330": {
+    "order": true
   }
 }
