@@ -21,5 +21,8 @@
   },
   "FR": {
     "order": true
+  },
+  "COLOR": {
+    "chat": "vert"
   }
 }
