@@ -3,7 +3,7 @@
     "order_maanement": true
   },
   "FR": {
-    "order": true
+    "order": false
   },
   "COLOR": {
     "cheval": "noir",
