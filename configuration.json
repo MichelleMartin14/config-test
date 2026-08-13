@@ -15,5 +15,8 @@
   },
   "test": {
     "tt": "tt"
+  },
+  "DEFAULT": {
+    "order_maanement": true
   }
 }
