@@ -18,5 +18,8 @@
   },
   "DEFAULT": {
     "order_maanement": true
+  },
+  "FR": {
+    "order": true
   }
 }
