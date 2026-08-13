@@ -10,6 +10,7 @@
     "chat": "vert"
   },
   "2330": {
-    "order": true
+    "order": true,
+    "order_mana": false
   }
 }
