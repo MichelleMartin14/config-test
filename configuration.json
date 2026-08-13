@@ -15,5 +15,11 @@
   },
   "test": {
     "tt": "tt"
+  },
+  "FR": {
+    "order_management_truc": true
+  },
+  "MMARTI": {
+    "order_management_truc": true
   }
 }
