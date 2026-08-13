@@ -15,5 +15,11 @@
   },
   "test": {
     "tt": "tt"
+  },
+  "DE": {
+    "order_mananana": true
+  },
+  "UE": {
+    "order_mananana": true
   }
 }
