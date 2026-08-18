@@ -12,5 +12,8 @@
   "2330": {
     "order": true,
     "order_mana": false
+  },
+  "2234": {
+    "order": true
   }
 }
