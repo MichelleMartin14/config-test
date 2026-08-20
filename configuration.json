@@ -2,15 +2,31 @@
   "DEFAULT": {
     "order_maanement": true
   },
+  "ES": {
+    "ordeeeree": true
+  },
   "FR": {
     "order": false
+  },
+  "WA": {
+    "ordeeeree": true
+  },
+  "2329": {
+    "ordeeeree": true
+  },
+  "2330": {
+    "order": true,
+    "order_mana": false,
+    "ordeeeree": true
+  },
+  "2331": {
+    "ordeeeree": true
   },
   "COLOR": {
     "cheval": "noir",
     "chat": "vert"
   },
-  "2330": {
-    "order": true,
-    "order_mana": false
+  "MMARTI": {
+    "ordeeeree": true
   }
 }
