@@ -3,30 +3,36 @@
     "order_maanement": true
   },
   "ES": {
-    "ordeeeree": true
+    "ordeeeree": true,
+    "ordeeeere": false
   },
   "FR": {
     "order": false
   },
   "WA": {
-    "ordeeeree": true
+    "ordeeeree": true,
+    "ordeeeere": false
   },
   "2329": {
-    "ordeeeree": true
+    "ordeeeree": true,
+    "ordeeeere": false
   },
   "2330": {
     "order": true,
     "order_mana": false,
-    "ordeeeree": true
+    "ordeeeree": true,
+    "ordeeeere": false
   },
   "2331": {
-    "ordeeeree": true
+    "ordeeeree": true,
+    "ordeeeere": false
   },
   "COLOR": {
     "cheval": "noir",
     "chat": "vert"
   },
   "MMARTI": {
-    "ordeeeree": true
+    "ordeeeree": true,
+    "ordeeeere": false
   }
 }
