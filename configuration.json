@@ -5,12 +5,15 @@
   "FR": {
     "order": false
   },
+  "2330": {
+    "order": true,
+    "order_mana": false
+  },
   "COLOR": {
     "cheval": "noir",
     "chat": "vert"
   },
-  "2330": {
-    "order": true,
-    "order_mana": false
+  "ES, MMARTI, 2329, 2331, WA": {
+    "orddder": true
   }
 }
